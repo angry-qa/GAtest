@@ -1,0 +1,26 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "Element should have text 's2elenide1.org' {#search}\nElement: '<div id=\"search\">Search Results\nWeb Result with Site Links\n\nSelenide: concise UI tests in Java\nhttps://selenide.org\nSelenide is a framework for test automation powered by Selenium WebDriver that brings the following advantages: ... You don't need to think how to shutdown ...\nSelenide vs Selenium\nSelenide provides concise API for that makes your tests shorter ...\nDocumentation\nSelenide vs Selenium - Javadoc - Screenshots - FAQ - ...\nQuick Start\nJust add selenide.jar (and its dependencies) to your project ...\nReleased Selenide 5.25.0\nSupport for Selenium Webdriver 4.0.0 RC1. We released two ...\nMore results from selenide.org »\nPeople also ask\nWhat is Selenide formula?\n\nWhat is Selenide in testing?\n\nIs Selenium and Selenide the same thing?\n\nWhat is Selenide in automation?\n\nFeedback\nWeb results\n\nSelenide - Concise UI Tests with Java! - GitHub\nhttps://github.com › selenide › selenide\nSelenide is a framework for writing easy-to-read and easy-to-maintain automated tests in Java. It defines concise fluent API, natural language assertions and ...\n\nSelenide - Wikipedia\nhttps://en.wikipedia.org › wiki › Selenide\nA selenide is a chemical compound containing a selenium anion with oxidation number of −2 (Se2−), much as sulfur does in a sulfide.\n=Reactions · Metal selenide\n\nSelenide - Concise UI Tests in Java - Methods & Tools\nhttps://www.methodsandtools.com › tools › selenide\nSelenide is an open source software testing tool for writing concise, expressive and stable UI tests in Java. Selenide resolves all the typical problems ...\n\nSelenide - an overview | ScienceDirect Topics\nhttps://www.sciencedirect.com › topics › selenide\nSelenide, in turn, is the precursor of proteinogenic selenocysteine and selenophosphate, both of which are indispensable for selenoprotein synthesis.\n\ndefinition of selenide by The Free Dictionary\nhttps://www.thefreedictionary.com › selenide\n8 records — Also found in: Thesaurus, Medical, Encyclopedia, Wikipedia. selenide. (ˈsɛlɪˌnaɪd). n. (Chemistry) a chemical compound containing selenium. Collins ...\n\nSelenideElement · Selenide User Guide\nhttps://selenide.gitbooks.io › content › selenide-api › sel...\ncodeborne.selenide.SelenideElement [src]. The SelenideElement class is a wrapper over Selenium WebElement that adds some rather useful methods. The object ...\nVideos\nPREVIEW\n13:45\nWhy I switched to using Selenide for UI tests\nYouTube · Sebastian Daschner\nMay 23, 2021\nPREVIEW\n45:30\nSelenide: Concise UI Tests in Java\nYouTube · Selenium Conference\nSep 14, 2015\n10 key moments in this video\nPREVIEW\n1:57:44\n84. [pro:]TEST! LIVE! - Selenide: automate with pleasure! with ...\nYouTube · [pro:]TEST! Community\nApr 29, 2020\n10 key moments in this video\nFeedback\nView all</div>'\nScreenshot: file:/home/runner/work/github-action-test/github-action-test/build/reports/tests/1637507596877.0.png\nPage source: file:/home/runner/work/github-action-test/github-action-test/build/reports/tests/1637507596877.0.html\nTimeout: 4 s.",
+      "children" : [ {
+        "name" : "selenideSearchTest3()",
+        "uid" : "6c03e2c599dc01f7",
+        "parentUid" : "ea87e1dcccd16324b65bf3d85a50c1ee",
+        "status" : "failed",
+        "time" : {
+          "start" : 1637507591513,
+          "stop" : 1637507597569,
+          "duration" : 6056
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "ea87e1dcccd16324b65bf3d85a50c1ee"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ],
+  "name" : "categories"
+}
