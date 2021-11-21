@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"failed","Sun Nov 21 14:48:25 GMT 2021","Sun Nov 21 14:48:31 GMT 2021","5711","","Tests.SearchTests","","Tests.SearchTests","selenideSearchTest3","selenideSearchTest3()",""
+"passed","Sun Nov 21 14:48:12 GMT 2021","Sun Nov 21 14:48:23 GMT 2021","11522","","Tests.SearchTests","","Tests.SearchTests","selenideSearchTest","selenideSearchTest()",""
+"passed","Sun Nov 21 14:48:23 GMT 2021","Sun Nov 21 14:48:25 GMT 2021","1968","","Tests.SearchTests","","Tests.SearchTests","selenideSearchTest2","selenideSearchTest2()",""
+"passed","Sun Nov 21 14:48:31 GMT 2021","Sun Nov 21 14:48:33 GMT 2021","1644","","Tests.SearchTests","","Tests.SearchTests","selenideSearchTest4","selenideSearchTest4()",""
