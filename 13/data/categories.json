@@ -1,0 +1,26 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "Element should have text 's2elenide1.org' {#search}\nElement: '<div id=\"search\">Search Results\nWeb Result with Site Links\n\nSelenide: concise UI tests in Java\nhttps://selenide.org\nSelenide is a framework for test automation powered by Selenium WebDriver that brings the following advantages: ... You don't need to think how to shutdown ...\nSelenide vs Selenium\nSelenide provides concise API for that makes your tests shorter ...\nDocumentation\nSelenide vs Selenium - Javadoc - Screenshots - FAQ - ...\nQuick Start\nJust add selenide.jar (and its dependencies) to your project ...\nReleased Selenide 5.25.0\nSupport for Selenium Webdriver 4.0.0 RC1. We released two ...\nMore results from selenide.org »\nPeople also ask\nWhat is Selenide formula?\n\nIs Selenide better than selenium?\n\nWhat is Selenide in testing?\n\nWhat is Selenide element?\n\nFeedback\nWeb results\n\nSelenide - Concise UI Tests with Java! - GitHub\nhttps://github.com › selenide › selenide\nSelenide is a framework for writing easy-to-read and easy-to-maintain automated tests in Java. It defines concise fluent API, natural language assertions and ...\n\nSelenide - Wikipedia\nhttps://en.wikipedia.org › wiki › Selenide\nA selenide is a chemical compound containing a selenium anion with oxidation number of −2 (Se2−), much as sulfur does in a sulfide.\n=Reactions · Metal selenide\n\nSelenide a Java Based Automation Framework Overview\nhttps://testguild.com › Blog › Automation Testing\nSep 17, 2019 — Here's why Selenide is Cool. Selenium (and many other test automation frameworks) require a ton of custom code, and multiple libraries and ...\nVideos\nPREVIEW\n13:45\nWhy I switched to using Selenide for UI tests\nYouTube · Sebastian Daschner\nMay 23, 2021\nPREVIEW\n45:30\nSelenide: Concise UI Tests in Java\nYouTube · Selenium Conference\nSep 14, 2015\n10 key moments in this video\nPREVIEW\n1:57:44\n84. [pro:]TEST! LIVE! - Selenide: automate with pleasure! with ...\nYouTube · [pro:]TEST! Community\nApr 29, 2020\n10 key moments in this video\nPREVIEW\n1:02:24\nTest Automation Made Easy Using Selenide with Hima Bindu ...\nYouTube · TestGuild Automation Testing w/Joe Colantonio\nSep 25, 2020\n10 key moments in this video\nFeedback\nView all\nWeb results\n\nSelenide Vs. Selenium – A Detailed Comparison - BugRaptors\nhttps://www.bugraptors.com › blog › selenide-vs-seleni...\nOct 8, 2018 — Selenide is an automated software testing framework used to write program codes, and it helps create and send HTTP requests on Server/Grid. In ...\n\nSelenium Testing With Selenide Using IntelliJ & Maven\nhttps://www.lambdatest.com › blog › selenium-testing-...\nFeb 1, 2019 — Powered by Selenium WebDriver, testing with Selenide is free as Selenide is an open source library for automation testing. In fact, this library ...\n\nSelenide - Concise UI Tests in Java - Methods & Tools\nhttps://www.methodsandtools.com › tools › selenide\nSelenide is an open source software testing tool for writing concise, expressive and stable UI tests in Java. Selenide resolves all the typical problems ...</div>'\nScreenshot: file:/home/runner/work/github-action-test/github-action-test/build/reports/tests/1637505970565.0.png\nPage source: file:/home/runner/work/github-action-test/github-action-test/build/reports/tests/1637505970565.0.html\nTimeout: 4 s.",
+      "children" : [ {
+        "name" : "selenideSearchTest3()",
+        "uid" : "47a052f16970f3c3",
+        "parentUid" : "4ed75f20efd816089092909886b82834",
+        "status" : "failed",
+        "time" : {
+          "start" : 1637505965337,
+          "stop" : 1637505971130,
+          "duration" : 5793
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "4ed75f20efd816089092909886b82834"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ],
+  "name" : "categories"
+}
