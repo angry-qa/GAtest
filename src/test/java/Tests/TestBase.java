@@ -29,7 +29,7 @@ public class TestBase {
 
         Configuration.browserCapabilities = capabilities;
         Configuration.browser = "chrome";
-        //Configuration.headless = true;
+        Configuration.headless = true;
 
         // Configuration.browser = ownerConfig.getWebDriverBrowser();
         // Configuration.browserVersion = ownerConfig.getWebDriverBrowserVersion();
