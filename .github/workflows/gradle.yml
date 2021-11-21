@@ -51,6 +51,6 @@ jobs:
       with: 
         authToken: ${{ secrets.GITHUB_TOKEN }}
         context: 'Test report'
-        # state: 'success'
+        state: 'success'
         # sha: ${{ github.event.pull_request.head.sha }}
         target_url: angry-qa.github.io/github-action-test/${{ github.run_number }}
