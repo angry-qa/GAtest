@@ -1,9 +1,0 @@
-[ {
-  "buildOrder" : 16,
-  "reportUrl" : "https://angry-qa.github.io/github-action-test/16/",
-  "reportName" : "Allure Report with history",
-  "data" : {
-    "run" : 4,
-    "retry" : 0
-  }
-} ]
