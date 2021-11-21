@@ -29,7 +29,7 @@ public class SearchTests extends TestBase {
     void selenideSearchTest3() {
         open("https://www.google.com/");
         $(byName("q")).setValue("Selenide").pressEnter();
-        $("#search").shouldHave(text("s2elenide1.org"));
+        $("#search").shouldHave(text("selenide.org"));
     }
     
     @Test
