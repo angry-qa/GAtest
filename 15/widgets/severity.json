@@ -1,0 +1,41 @@
+[ {
+  "uid" : "9cc066a6bdb0d659",
+  "name" : "selenideSearchTest4()",
+  "time" : {
+    "start" : 1637506383782,
+    "stop" : 1637506385377,
+    "duration" : 1595
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3891650102049bf2",
+  "name" : "selenideSearchTest()",
+  "time" : {
+    "start" : 1637506370544,
+    "stop" : 1637506376050,
+    "duration" : 5506
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "71c342e478d9e663",
+  "name" : "selenideSearchTest2()",
+  "time" : {
+    "start" : 1637506376167,
+    "stop" : 1637506378018,
+    "duration" : 1851
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5df699cabbfeb024",
+  "name" : "selenideSearchTest3()",
+  "time" : {
+    "start" : 1637506378021,
+    "stop" : 1637506383770,
+    "duration" : 5749
+  },
+  "status" : "failed",
+  "severity" : "normal"
+} ]
