@@ -49,11 +49,8 @@ jobs:
       if: always()
       uses: Sibz/github-status-action@v1
       with: 
-        authToken: ${{ secrets.GITHUB_TOKEN }}
+        authToken: ${{secrets.GITHUB_TOKEN}}
         context: 'Test report'
-        description: ""
         state: 'success'
-        owner: 'angry-qa'
-        repo: 'github-action-test'
-        sha: ${{ github.event.pull_request.head.sha }}
+        sha: ${{github.event.pull_request.head.sha || github.sha}}
         target_url: angry-qa.github.io/github-action-test/${{ github.run_number }}
