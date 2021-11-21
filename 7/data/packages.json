@@ -1,0 +1,35 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "children" : [ {
+    "name" : "Tests.SearchTests",
+    "children" : [ {
+      "name" : "selenideSearchTest",
+      "uid" : "5d01e44d02592016",
+      "parentUid" : "8ae47c27a44cb7b96c6105c365b06681",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637503421796,
+        "stop" : 1637503428883,
+        "duration" : 7087
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "selenideSearchTest2",
+      "uid" : "8fc1e849f0bfddc6",
+      "parentUid" : "8ae47c27a44cb7b96c6105c365b06681",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637503429019,
+        "stop" : 1637503431093,
+        "duration" : 2074
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "Tests.SearchTests"
+  } ],
+  "name" : "packages"
+}

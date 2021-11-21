@@ -1,0 +1,10 @@
+[ {
+  "name" : "GitHub Actions",
+  "type" : "github",
+  "url" : "https://angry-qa.github.io/github-action-test",
+  "buildOrder" : 7,
+  "buildName" : "GitHub Actions Run #1487002924",
+  "buildUrl" : "https://github.com/angry-qa/github-action-test/actions/runs/1487002924",
+  "reportName" : "Allure Report with history",
+  "reportUrl" : "https://angry-qa.github.io/github-action-test/7/"
+} ]

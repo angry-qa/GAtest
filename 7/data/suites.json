@@ -1,0 +1,35 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "children" : [ {
+    "name" : "Tests.SearchTests",
+    "children" : [ {
+      "name" : "selenideSearchTest()",
+      "uid" : "5d01e44d02592016",
+      "parentUid" : "f0dbb9668ae15955ef045cf54a51963f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637503421796,
+        "stop" : 1637503428883,
+        "duration" : 7087
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "selenideSearchTest2()",
+      "uid" : "8fc1e849f0bfddc6",
+      "parentUid" : "f0dbb9668ae15955ef045cf54a51963f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637503429019,
+        "stop" : 1637503431093,
+        "duration" : 2074
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "f0dbb9668ae15955ef045cf54a51963f"
+  } ],
+  "name" : "suites"
+}

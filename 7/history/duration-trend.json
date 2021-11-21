@@ -1,0 +1,8 @@
+[ {
+  "buildOrder" : 7,
+  "reportUrl" : "https://angry-qa.github.io/github-action-test/7/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "duration" : 9297
+  }
+} ]

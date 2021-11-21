@@ -1,0 +1,21 @@
+[ {
+  "uid" : "8fc1e849f0bfddc6",
+  "name" : "selenideSearchTest2()",
+  "time" : {
+    "start" : 1637503429019,
+    "stop" : 1637503431093,
+    "duration" : 2074
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5d01e44d02592016",
+  "name" : "selenideSearchTest()",
+  "time" : {
+    "start" : 1637503421796,
+    "stop" : 1637503428883,
+    "duration" : 7087
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
