@@ -1,0 +1,146 @@
+{
+  "uid" : "8a02f205355361c8",
+  "name" : "selenideSearchTest3()",
+  "fullName" : "Tests.SearchTests.selenideSearchTest3",
+  "historyId" : "a63acaa8a43b10331fd1ca84fe409260",
+  "time" : {
+    "start" : 1637508355617,
+    "stop" : 1637508357600,
+    "duration" : 1983
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "$(\"open\") https://www.google.com/",
+      "time" : {
+        "start" : 1637508355617,
+        "stop" : 1637508355943,
+        "duration" : 326
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "$(\"By.name: q\") set value(Selenide)",
+      "time" : {
+        "start" : 1637508355944,
+        "stop" : 1637508356113,
+        "duration" : 169
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "$(\"By.name: q\") press enter()",
+      "time" : {
+        "start" : 1637508356113,
+        "stop" : 1637508357107,
+        "duration" : 994
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "$(\"#search\") should have(text 'selenide.org')",
+      "time" : {
+        "start" : 1637508357107,
+        "stop" : 1637508357384,
+        "duration" : 277
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "838e2902f1ee5f14",
+      "name" : "Last screenshot",
+      "source" : "838e2902f1ee5f14.png",
+      "type" : "image/png",
+      "size" : 104778
+    }, {
+      "uid" : "fe230a86f1ab1ce5",
+      "name" : "Page source",
+      "source" : "fe230a86f1ab1ce5.html",
+      "type" : "text/plain",
+      "size" : 692581
+    }, {
+      "uid" : "de1505369f7e2842",
+      "name" : "Browser console logs",
+      "source" : "de1505369f7e2842.bin",
+      "type" : "text/plain",
+      "size" : 0
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 4,
+    "attachmentsCount" : 3,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "fv-az33-360"
+  }, {
+    "name" : "thread",
+    "value" : "3175@fv-az33-360.Test worker(11)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "Tests.SearchTests"
+  }, {
+    "name" : "testClass",
+    "value" : "Tests.SearchTests"
+  }, {
+    "name" : "testMethod",
+    "value" : "selenideSearchTest3"
+  }, {
+    "name" : "suite",
+    "value" : "Tests.SearchTests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8a02f205355361c8.json",
+  "parameterValues" : [ ]
+}
