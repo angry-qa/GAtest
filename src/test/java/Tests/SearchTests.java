@@ -17,19 +17,25 @@ public class SearchTests extends TestBase {
         $("#search").shouldHave(text("selenide.org"));
         System.out.println($$(byClassName("logo")).size());
     }
+    
     @Test
-
     void selenideSearchTest2() {
         open("https://www.google.com/");
         $(byName("q")).setValue("Selenide").pressEnter();
         $("#search").shouldHave(text("selenide.org"));
-        System.out.println($$(byClassName("logo")).size());
     }
 
+    @Test
     void selenideSearchTest3() {
         open("https://www.google.com/");
         $(byName("q")).setValue("Selenide").pressEnter();
-        $("#search").shouldHave(text("selenide1.org"));
-        System.out.println($$(byClassName("logo")).size());
+        $("#search").shouldHave(text("s2elenide1.org"));
+    }
+    
+    @Test
+    void selenideSearchTest4() {
+        open("https://www.google.com/");
+        $(byName("q")).setValue("Selenide").pressEnter();
+        $("#search").shouldHave(text("selenide.org"));
     }
 }
