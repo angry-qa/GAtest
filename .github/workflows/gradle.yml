@@ -41,7 +41,7 @@ jobs:
       if: always()
       uses: peaceiris/actions-gh-pages@v2
       env:
-        PERSONAL_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        PERSONAL_TOKEN: ${{secrets.GITHUB_TOKEN}}
         PUBLISH_BRANCH: gh-pages
         PUBLISH_DIR: allure-history
         
@@ -52,5 +52,5 @@ jobs:
         authToken: ${{secrets.GITHUB_TOKEN}}
         context: 'Test report'
         state: 'success'
-        sha: ${{github.event.pull_request.head.sha || github.sha}}
-        target_url: angry-qa.github.io/github-action-test/${{ github.run_number }}
+        sha: ${{github.event.pull_request.head.sha}}
+        target_url: angry-qa.github.io/github-action-test/${{github.run_number}}
